@@ -15,6 +15,8 @@ This repository contains the source code for a software implementation of thrust
 
 </div>
 
+![](https://github.com/johannes111111/git-test-public/blob/main/flight.gif)
+
 <details>
 <summary>Table of Contents</summary>
 
