@@ -16,7 +16,7 @@ This repository contains the source code for a software implementation of thrust
 </div>
 
 <details>
-Table of contents
+<summary>Table of Contents</summary>
 
 - [Installation](#installation)
 - [Usage](#usage)
