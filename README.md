@@ -12,7 +12,7 @@ This repository contains the source code for a software implementation of thrust
 
 ## Table of contents
 
-- [Installation](#installation)
+- [Installation](#Installation)
 - [Usage](#usage)
 - [Features](#features)
     - [State Machine](#state-machine)
