@@ -2,9 +2,15 @@
 
 # TVC-Rocket-Flight-Code
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<a href="https://www.arduino.cc">
+    <img alt="arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</a>
+<a href="https://www.iso.org/standard/74528.html">
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+</a>
+<a href="https://isocpp.org">
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</a>
 
 This repository contains the source code for a software implementation of thrust vector control (TVC) for model rockets. The software consists of a state machine and PID control loops to adjust the orientation of the rocket during its powered ascent.
 
@@ -12,7 +18,7 @@ This repository contains the source code for a software implementation of thrust
 
 ## Table of contents
 
-- [Installation](#Installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
     - [State Machine](#state-machine)
