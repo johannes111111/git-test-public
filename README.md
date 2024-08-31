@@ -8,7 +8,7 @@
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a href="https://isocpp.org">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-
+<br>
 
 This repository contains the source code for a software implementation of thrust vector control (TVC) for model rockets. The software consists of a state machine and PID control loops to adjust the orientation of the rocket during its powered ascent.
 
