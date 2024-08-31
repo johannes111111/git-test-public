@@ -15,7 +15,8 @@ This repository contains the source code for a software implementation of thrust
 
 </div>
 
-## Table of contents
+<details>
+Table of contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -25,6 +26,7 @@ This repository contains the source code for a software implementation of thrust
     - [Parachute Ejection](#parachute-ejection)
 - [Contributing](#contributing)
 - [License](#license)
+</details>
 
 ## Installation
 
